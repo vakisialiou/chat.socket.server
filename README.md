@@ -8,6 +8,8 @@
 - https://redis.io/topics/quickstart
 - https://redis.io/topics/rediscli
 - https://redis.io/topics/pubsub
+- https://github.com/NodeRedis/node_redis
+- https://github.com/socketio/socket.io-emitter
 
 ##### Redis commands
 1. Connect to redis

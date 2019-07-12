@@ -1,0 +1,8 @@
+apps:
+  - script: ./index.js
+    name: 'socket.server'
+    instances: 1
+    exec_mode: fork
+    exec_interpreter: ./node_modules/.bin/babel-node
+    env_production:
+      NODE_ENV: production

@@ -8,7 +8,7 @@ db:
     connectionLimit: 10
 server:
   host: localhost
-  port: 5111
+  port: 5001
 redis:
   host: localhost
   port: 6379

@@ -6,6 +6,7 @@
 
 ###### Redis, PUB/SUB helpful links
 - https://redis.io/topics/quickstart
+- https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-redis-on-ubuntu-16-04
 - https://redis.io/topics/rediscli
 - https://redis.io/topics/pubsub
 - https://github.com/NodeRedis/node_redis

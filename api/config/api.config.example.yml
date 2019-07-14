@@ -9,6 +9,9 @@ db:
 server:
   host: localhost
   port: 5001
+api:
+  host: localhost
+  port: 5000
 redis:
   host: localhost
   port: 6379

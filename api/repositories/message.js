@@ -2,7 +2,7 @@ import fetch from 'node-fetch'
 import { config } from './../core'
 
 function prepareApiUrl(path) {
-  return `${config.api.host}:${config.api.port}/${path}`
+  return `http://${config.api.host}:${config.api.port}/${path}`
 }
 
 /**
